@@ -1,0 +1,5 @@
+# This is an Arduino based wastage segretion system project, which
+uses microcontroller(Arduino), sensors, ledd's, servo, etc. It basaically
+detects the moisture of the waste and seprates biodegradable and non-
+biodegradable waste on the basis of moisture presence
+
