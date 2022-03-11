@@ -1,0 +1,17 @@
+//This is the basic code to check moisture of any substance(wastage):)
+
+int soilsensor=A0;
+int val;
+
+void setup()
+{
+  pinMode(soilsensor, INPUT);
+  Serial.begin(9600);
+}
+
+void loop()
+{
+  val = analogRead(soilsensor);
+  Serial.print("Analog values: ");
+  Serial.println(val);
+}
