@@ -11,5 +11,11 @@ moisture is lower or equal to the value fixed in program, it will consider
 the waste as biodegradable waste and if moisture is higher or equal to the 
 value fixed in program, it will consider the waste as non - biodegradable
 
+# If the waste is considered as biodegradable it will turn on the green led
+and turns the servo at 45 degree, and if waste is considered as non - biodegradable
+it will turn on the red led and turns the servo at 135 degree. In this way our
+project detects the moisture level and differentiate wastage into biodegradable or
+non - biodegradable and seprates it into different cans
 
+# This is the whole working principle of our project:)
 
