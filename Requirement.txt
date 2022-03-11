@@ -9,4 +9,9 @@
 # Libraries Required:
 1.There is no library required for this project
 
+# Hardware Required:
+1.Sunboard
+2.Alimunium Foil
+3.Stick (17cm length)
+
 
