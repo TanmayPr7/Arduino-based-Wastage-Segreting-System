@@ -15,3 +15,5 @@ void loop()
   Serial.print("Analog values: ");
   Serial.println(val);
 }
+
+# This is the basic code for checking moisture of any substance:)
