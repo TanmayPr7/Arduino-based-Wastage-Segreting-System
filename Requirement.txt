@@ -1,0 +1,4 @@
+# Components Required:
+1.Arduino UNO or any other
+2.SG90 Servo motor
+3.Moisture Sensor
