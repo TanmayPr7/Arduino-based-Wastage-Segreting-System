@@ -2,3 +2,6 @@
 1.Arduino UNO or any other
 2.SG90 Servo motor
 3.Moisture Sensor
+4.LED's
+5.Jumper cables
+6.Breadboard
