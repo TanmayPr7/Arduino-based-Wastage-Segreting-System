@@ -8,3 +8,12 @@ int Gled = 9;
 int val;
 Servo myservo;
 
+void setup(){
+  Serial.begin(9600);
+  myservo.attach(servopin);
+  pinMode(senspin, INPUT);
+  pinMode(Rled, OUTPUT);
+  pinMode(Gled, OUTPUT);
+  myservo.write(90);
+}
+
