@@ -13,5 +13,10 @@
 1.Sunboard
 2.Alimunium Foil
 3.Stick (17cm length)
+4.Paper Tape
+5.Double Sided Tape
+6.Pair of Scissors
+7.Soldering Iron
+
 
 
