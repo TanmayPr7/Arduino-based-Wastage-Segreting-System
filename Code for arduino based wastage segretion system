@@ -17,3 +17,23 @@ void setup(){
   myservo.write(90);
 }
 
+void loop(){
+  val = analogRead(senspin);
+  Serial.println(val);
+  //delay(1000);
+
+  if(val <=999){
+    myservo.write(135);
+    digitalWrite(Gled, HIGH);
+    delay(2000);
+    digitalWrite(Gled, LOW);
+    myservo.write(90);
+  }
+
+  else{
+    myservo.write(90);
+    digitalWrite(Rled, HIGH);
+    delay(1000);
+    digitalWrite(Rled, LOW);
+  }
+}
