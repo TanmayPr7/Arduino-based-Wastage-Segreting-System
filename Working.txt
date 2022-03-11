@@ -6,5 +6,10 @@ biodegradable waste on the basis of moisture presence
 # It basically uses moisture sensor which detects the moisture presence 
 in paticullar waste material and seprate it on the basis of wet and dry
 waste. It detects the moisture and sends the data to microcontroller(Arduino),
-the Arduino works according to the program and seprates the wastage
+the Arduino works according to the program and seprates the wastage, if the 
+moisture is lower or equal to the value fixed in program, it will consider
+the waste as biodegradable waste and if moisture is higher or equal to the 
+value fixed in program, it will consider the waste as non - biodegradable
+
+
 
