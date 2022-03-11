@@ -18,5 +18,7 @@
 6.Pair of Scissors
 7.Soldering Iron
 
+# These are all the basic requirements for this project:)
+
 
 
