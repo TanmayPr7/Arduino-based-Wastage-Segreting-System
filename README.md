@@ -1,1 +1,1 @@
-# Arduino-based-Wastage-Segreting-system
+# Arduino-based-Wastage-Segreting-System
