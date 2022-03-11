@@ -3,3 +3,8 @@ uses microcontroller(Arduino), sensors, ledd's, servo, etc. It basaically
 detects the moisture of the waste and seprates biodegradable and non-
 biodegradable waste on the basis of moisture presence
 
+# It basically uses moisture sensor which detects the moisture presence 
+in paticullar waste material and seprate it on the basis of wet and dry
+waste. It detects the moisture and sends the data to microcontroller(Arduino),
+the Arduino works according to the program and seprates the wastage
+
