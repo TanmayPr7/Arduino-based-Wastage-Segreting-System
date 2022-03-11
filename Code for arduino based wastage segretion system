@@ -1,0 +1,10 @@
+//This is the basic source code
+
+#include <Servo.h>
+int servopin = 3;
+int senspin = A0;
+int Rled = 12;
+int Gled = 9;
+int val;
+Servo myservo;
+
